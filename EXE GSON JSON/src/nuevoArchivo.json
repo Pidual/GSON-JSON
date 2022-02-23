@@ -1,0 +1,47 @@
+    [
+      {
+        "id": 1,
+        "name": "Jorge",
+        "adress": {
+          "calle": "Calle 13",
+          "ciudad": "Yopal",
+          "codigoPostal": 1213
+        },
+        "phoneNumbers": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Pepe",
+        "adress": {
+          "calle": "Calle 13",
+          "ciudad": "Yopal",
+          "codigoPostal": 1213
+        },
+        "phoneNumbers": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Miau",
+        "adress": {
+          "calle": "Calle 13",
+          "ciudad": "Yopal",
+          "codigoPostal": 1213
+        },
+        "phoneNumbers": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    ]
